@@ -1,6 +1,6 @@
-# A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications
+# A Semantic-Aware Key Matching Method for Data Minimization in Web Applications
 
-This project implements a semantic-aware key matching approach designed to detect Excessive Data Exposure (EDE) in web applications. EDE occurs when backend APIs return more data than the frontend actually requires, potentially leading to privacy and security risks. Unlike traditional DOM-based or dynamic analysis methods, our approach uses key matching to directly examine frontend JavaScript/HTML code and API responses at the source level. This enables accurate identification of which response fields are truly used by the application. You can refer to the `paper.pdf` and `slides.pdf` for a more detailed introduction.
+This project implements a semantic-aware key matching method designed to detect Excessive Data Exposure (EDE) in web applications. EDE occurs when backend APIs return more data than the frontend actually requires, potentially leading to privacy and security risks. Unlike traditional DOM-based or dynamic analysis methods, our approach uses key matching to directly examine frontend JavaScript/HTML code and API responses at the source level. This enables accurate identification of which response fields are truly used by the application. You can refer to the `paper.pdf` and `slides.pdf` for a more detailed introduction.
 
 ## Usage
 
